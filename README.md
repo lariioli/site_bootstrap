@@ -22,7 +22,7 @@ Este projeto foi desenvolvido para criar um site de uma hamburgueria fictícia, 
 **Contato:** Formulário de contato para os clientes entrarem em contato com a hamburgueria.
 
 
-##Etapas Implementadas
+## Etapas Implementadas
 
 **1. Configuração Inicial:** Estrutura básica do projeto criada com HTML, CSS e integração com o Bootstrap.
 
