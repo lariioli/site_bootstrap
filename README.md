@@ -6,8 +6,6 @@
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 ![alt text](image-5.png)
-<<<<<<< HEAD
-=======
 
 ## Introdução
 
@@ -55,4 +53,4 @@ Este projeto foi desenvolvido para criar um site de uma hamburgueria fictícia, 
 
 O projeto da hamburgueria oferece uma experiência de navegação fluida e intuitiva, com funcionalidades básicas para o usuário explorar os produtos e fazer pedidos. A utilização de Bootstrap facilitou a criação de uma interface visualmente agradável e responsiva.
 
->>>>>>> f4d26c94abb1e36964bf4275e2351d4db003f9af
+
